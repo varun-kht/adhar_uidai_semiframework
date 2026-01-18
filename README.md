@@ -170,7 +170,7 @@ The project includes 20 professional, PDF-ready visualizations, covering:
 
 ---
 
-### 🏛️ Policy & Governance Impact
+## 🏛️ Policy & Governance Impact
 
 This framework enables UIDAI to:
 - Detect operational issues months earlier
@@ -180,7 +180,7 @@ This framework enables UIDAI to:
 
 ---
 
-##🔮 Future Extensions
+## 🔮 Future Extensions
 
 - District-level prioritization
 - Real-time monitoring dashboards
