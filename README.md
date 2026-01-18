@@ -160,31 +160,31 @@ Explainability text
 ## 📈 Visualizations
 
 The project includes 20 professional, PDF-ready visualizations, covering:
--Data coverage and inter-state heterogeneity
--Time-series trends and volatility
--Anomaly detection results
--State-level priority rankings
--Baseline vs ML-based comparisons
--Actionable intervention insights
--These visuals directly support competition evaluation criteria.
+- Data coverage and inter-state heterogeneity
+- Time-series trends and volatility
+- Anomaly detection results
+- State-level priority rankings
+- Baseline vs ML-based comparisons
+- Actionable intervention insights
+- These visuals directly support competition evaluation criteria.
 
 ---
 
 ### 🏛️ Policy & Governance Impact
 
 This framework enables UIDAI to:
--Detect operational issues months earlier
--Allocate resources based on evidence rather than intuition
--Reduce escalation and crisis-management costs
--Move towards predictive, data-driven governance
+- Detect operational issues months earlier
+- Allocate resources based on evidence rather than intuition
+- Reduce escalation and crisis-management costs
+- Move towards predictive, data-driven governance
 
 ---
 
 ##🔮 Future Extensions
 
--District-level prioritization
--Real-time monitoring dashboards
--Predictive forecasting of priority scores
--Integration with policy calendars and external signals
+- District-level prioritization
+- Real-time monitoring dashboards
+- Predictive forecasting of priority scores
+- Integration with policy calendars and external signals
 
 ---
