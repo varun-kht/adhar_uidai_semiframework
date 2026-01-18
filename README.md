@@ -1,4 +1,4 @@
-# Intelligent State-Level Operational Prioritization Framework  
+# Intelligent State-Level Operational Prioritization Semi-Framework  
 ## A Machine Learning Approach to Proactive Resource Allocation
 
 ---
