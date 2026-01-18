@@ -56,7 +56,7 @@ These signals are normalized, weighted, and fused into a **Composite Priority Sc
 ## 📂 Project Structure
 
 ```text
-udai_adhar_framework/
+udai_adhar_semiframework/
 │
 ├── data/
 │   ├── raw/                        # Original UIDAI datasets
