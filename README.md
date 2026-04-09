@@ -48,7 +48,7 @@ These signals are normalized, weighted, and fused into a **Composite Priority Sc
 - First application of **Isolation Forest** on Aadhaar operational data  
 - State-contextual baselines instead of absolute national thresholds  
 - Explainable AI layer for administrative decision-making  
-- Production-grade, reproducible analytical pipeline  
+- Production-grade, reproducible analytical pipeline.  
 - Scalable to district-level and near real-time monitoring  
 
 ---
